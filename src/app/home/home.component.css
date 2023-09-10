@@ -1,0 +1,20 @@
+#home{
+    background-color: #1abc9c;
+min-height: 95vh;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.one,.two{
+    width: 90px;
+    height: 4px;
+    background-color: white;
+}
+.bodycontent{
+    width: 60%;
+     margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
